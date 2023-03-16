@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cprobit",
+    "oncran": true
+  },
+  {
+    "package": "ROlogit",
+    "oncran": true
+  }
+]
