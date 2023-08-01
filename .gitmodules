@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cprobit"]
-	path = cprobit
-	url = https://github.com/nyilin/cprobit
 [submodule "ROlogit"]
 	path = ROlogit
 	url = https://github.com/nyilin/rologit
+[submodule "cprobit"]
+	path = cprobit
+	url = https://github.com/nyilin/cprobit
